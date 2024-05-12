@@ -1,16 +1,12 @@
 const { DateTime } = require("luxon");
+const pageHeading = require("./src/_includes/shortcodes/pageHeading");
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/assets/css/style.css");
     eleventyConfig.addPassthroughCopy("src/assets/images");
     eleventyConfig.addPassthroughCopy({ "src/robots.txt": "/robots.txt" });
 
-    eleventyConfig.addShortcode(
-        "headers",
-        (title, subtitle) =>
-          `<h1>${title}</h1>
-            <p>${subtitle}</p>`
-      );
+    eleventyConfig.addShortcode("pageHeading", pageHeading);
     
     eleventyConfig.addShortcode("currentDate", (date = DateTime.now()) => {
         return date;
