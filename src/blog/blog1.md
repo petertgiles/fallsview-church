@@ -1,7 +1,6 @@
 ---
 title: First Post
-layout: base
-tags: post
+description: This is my first post
 ---
 
 # First Post

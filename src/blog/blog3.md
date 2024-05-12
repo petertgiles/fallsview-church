@@ -1,7 +1,6 @@
 ---
 title: Third Post
-layout: base
-tags: post
+description: This is my third post
 ---
 
 # Third Post

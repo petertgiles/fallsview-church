@@ -1,7 +1,6 @@
 ---
 title: Second Post
-layout: base
-tags: post
+description: This is my second post
 ---
 
 # Second Post
