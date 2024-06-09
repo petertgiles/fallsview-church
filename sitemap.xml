@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>https://learneleventy.netlify.app/blog/blog1/</loc>
+            <lastmod>1717963691423</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://learneleventy.netlify.app/blog/blog2/</loc>
+            <lastmod>1717963691423</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://learneleventy.netlify.app/blog/blog3/</loc>
+            <lastmod>1717963691423</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://learneleventy.netlify.app/about/</loc>
+            <lastmod>1717963691423</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://learneleventy.netlify.app/blog/</loc>
+            <lastmod>1717963691423</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://learneleventy.netlify.app/</loc>
+            <lastmod>1717963691423</lastmod>
+        </url>
+    
+</urlset>
